@@ -1,0 +1,54 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f0f9;
+    color: #4b2c91;
+}
+
+h1 {
+    color: #5c3f98;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #9b59b6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.btn:hover {
+    background-color: #8e44ad;
+}
+
+.table {
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.table th {
+    background-color: #7d3c98;
+    color: white;
+}
+
+.table th, .table td {
+    padding: 15px;
+    text-align: left;
+}
+
+.form-group label {
+    color: #6a1b9a;
+    font-weight: bold;
+}
+
+.form-control {
+    border: 1px solid #9b59b6;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.form-control:focus {
+    border-color: #8e44ad;
+}
